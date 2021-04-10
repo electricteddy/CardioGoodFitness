@@ -38,3 +38,21 @@ Please ensure timely submission as post-deadline assignment will not be accepted
 Your submission will not be evaluated if it contains more than 2 files.
 
 Happy Learning!!
+
+Scoring guide (Rubric) - Cardio Good Fitness RubricEvaluated
+Criteria	Ratings	Points
+Understanding the structure of the data
+Understanding the data structure was presented and explained well.	3/3
+Univariate Data Analysis
+Analysis of spread and distribution of every feature in the dataset.
+Univariate analysis was performed and explained well.	12/12
+Multivariate Data Analysis
+Analysis of interaction between features, in the dataset
+Customer segmentation should have also been discussed.	12/15
+Quality & Use of visualisations
+Good use of visualisations.	9/9
+Conclusion and Recommendations
+Well articulated conclusions and recommendations.	15/15
+Well commented Python Code
+Good work	6/6
+Points	57/60
